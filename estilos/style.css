@@ -4,7 +4,7 @@
     --cor-primaria: #35155D;
     --cor-secundaria: #E9B824;
     --cor-terciaria: #E19898;
-    --cor-hover: #6C95CB;
+    --cor-hover: #512B81;
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -99,7 +99,7 @@ body{
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
 
